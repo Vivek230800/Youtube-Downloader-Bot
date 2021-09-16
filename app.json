@@ -6,7 +6,7 @@
     "Youtube","YoutubeDownloader"
   ],
   "repository": "https://github.com/ToxicDeeModder1/Youtube-Downloader-Bot",
-  "success_url": "https://github.com/ToxicDeeModder1/YouTube-Downloader-Bot",
+  "success_url": "https://t.me/NarutoXMovieFinderBot",
   "website": "https://github.com/ToxicDeeModder1/Youtube-Downloader-Bot",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
