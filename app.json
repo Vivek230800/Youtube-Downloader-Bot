@@ -6,7 +6,7 @@
     "Youtube","YoutubeDownloader"
   ],
   "repository": "https://github.com/ToxicDeeModder1/Youtube-Downloader-Bot",
-  "success_url": "https://t.me/ToxicYt_Downloader_Robot",
+  "success_url": "https://github.com/ToxicDeeModder1/YouTube-Downloader-Bot",
   "website": "https://github.com/ToxicDeeModder1/Youtube-Downloader-Bot",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
@@ -18,7 +18,7 @@
         {"url": "heroku/python"}
     ],
   "formation": {
-        "worker": {
+        "worker": {n
             "quantity": 1,
             "size": "free"
         }
