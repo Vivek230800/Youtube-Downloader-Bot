@@ -9,9 +9,9 @@
   "success_url": "https://t.me/NarutoXMovieFinderBot",
   "website": "https://github.com/ToxicDeeModder1/Youtube-Downloader-Bot",
   "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
-        "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true}
+        "API_ID": 17071480,
+        "API_HASH": a19535d9455abbc5b7a26e4718b0702a,
+        "BOT_TOKEN": 5096525487:AAGF66mRN4NwzGb_ismzHubIKdsKEHsNhs0,
   },
       "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
